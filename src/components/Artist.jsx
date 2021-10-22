@@ -39,11 +39,11 @@ const Artist = ({ match }) => {
   }, []);
 
   return (
-    <>
+    <div class="artist-container">
       <div>
         {console.log(topTrackArray)}
         <img src={artistJumbo} alt="" />
-        <div class="container for-about">
+        <div>
           <p class="ml-auto text-white pt-5 pt-0">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -130,7 +130,7 @@ const Artist = ({ match }) => {
           ))}
         </Row>
       </div>
-    </>
+    </div>
   );
 };
 

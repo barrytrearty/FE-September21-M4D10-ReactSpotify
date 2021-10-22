@@ -87,19 +87,19 @@ const Sidebar = () => {
           </a>
 
           <a className="click-me " href="#Album">
-            <p>In Love With You-</p>
+            <p>What Did You Expect from The Vaccines?</p>
           </a>
 
           <a className="click-me" href="#Album">
-            <p>This Is Rod Stewart</p>
+            <p>West Ryder Pauper Lunatic Asylum</p>
           </a>
 
           <a className="click-me" href="#Album">
-            <p>FRANCHISE ft.Young Thug...</p>
+            <p>Illmatic</p>
           </a>
 
           <a className="click-me" href="#Album">
-            <p>Your Top Songs 2019</p>
+            <p>Hozier</p>
           </a>
           <a className="click-me" href="#Album">
             <p>Palleggio</p>
@@ -109,32 +109,32 @@ const Sidebar = () => {
           </a>
 
           <a className="click-me" href="#Album">
-            <p>Planet Caravan</p>
+            <p>The Eminem Show</p>
           </a>
 
           <a className="click-me" href="#Album">
-            <p>Jack 30th Party 2</p>
+            <p>Funeral</p>
           </a>
 
           <a className="click-me" href="#Album">
-            <p>Jack 30th Party</p>
+            <p>Dogrel</p>
           </a>
           <a className="click-me" href="#Album">
-            <p>This is Opeth</p>
+            <p>Good Kid, M.A.A.D City</p>
           </a>
-          <a className="click-me" href="#Album">
-            <p>Matal Ballads</p>
-          </a>
-          <a className="click-me" href="#Album">
-            <p>New Playlist</p>
-          </a>
-
-          <a className="click-me" href="#Album">
-            <p>You Top Songs 2018</p>
-          </a>
-
           <a className="click-me" href="#Album">
             <p>What People Say I Am, That Is What I Am Not</p>
+          </a>
+          <a className="click-me" href="#Album">
+            <p>Is This It?</p>
+          </a>
+
+          <a className="click-me" href="#Album">
+            <p>Nevermind</p>
+          </a>
+
+          <a className="click-me" href="#Album">
+            <p>What peope say i am, a am</p>
           </a>
 
           <div id="install-app" className="text-white pl-4 p-1">

@@ -215,6 +215,13 @@ progress {
 
 /* ///////////////////////////////////////////////////////////////  */
 
+/* ARTIST */
+
+.artist-container {
+  padding-left: 320px;
+  padding-bottom: 100px;
+}
+
 /* HOME */
 
 .main-container {

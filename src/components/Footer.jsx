@@ -34,16 +34,7 @@ const Footer = () => {
             </a>
           </span>
         </Col>
-        {/* <Col className="col-1 mb-2">
-          <span>
-            <a
-              href="#footer"
-              className="d-flex footer-icon align-items-center justify-content-end"
-            >
-              <AiOutlineHeart />
-            </a>
-          </span>
-        </Col> */}
+
         <Col className="col-6 middleFooter mb-2">
           <div>
             <div className="row col-12 mt-2 d-flex">
